@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>imgs/favicon (1).ico</file>
+        <file>imgs/favicon (2).ico</file>
+        <file>imgs/favicon (3).ico</file>
+        <file>imgs/favicon (4).ico</file>
+        <file>imgs/favicon (5).ico</file>
+        <file>imgs/favicon (6).ico</file>
+        <file>imgs/favicon (7).ico</file>
+        <file>imgs/favicon (8).ico</file>
+        <file>imgs/favicon (9).ico</file>
+        <file>imgs/favicon (10).ico</file>
+        <file>imgs/favicon (11).ico</file>
+        <file>imgs/favicon (12).ico</file>
+        <file>imgs/favicon.ico</file>
+        <file>imgs/my.jpg</file>
+        <file>imgs/background.jpg</file>
+        <file>imgs/my1.jpg</file>
+        <file>imgs/background2.jpg</file>
+    </qresource>
+</RCC>

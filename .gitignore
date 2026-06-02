@@ -1,0 +1,82 @@
+# =====================
+# Build & Output
+# =====================
+build/
+build-*/
+debug/
+release/
+Debug/
+Release/
+bin/
+obj/
+out/
+*.o
+*.obj
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+*.a
+*.so
+*.dll
+*.dylib
+
+# =====================
+# Qt / C++ Generated
+# =====================
+*.moc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.pro.user.*
+.qmake.stash
+Makefile
+*.make
+
+# =====================
+# IDE & Editor
+# =====================
+.idea/
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# =====================
+# CMake
+# =====================
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+CMakeUserPresets.json
+
+# =====================
+# STM32 / Keil MDK Build
+# =====================
+Objects/
+Listings/
+*.dep
+*.crf
+*.d
+*.axf
+*.htm
+*.build_log.htm
+
+# =====================
+# Claude Code
+# =====================
+.claude/
+
+# =====================
+# Misc
+# =====================
+*.log
+*.tmp
+*.bak
